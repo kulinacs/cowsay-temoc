@@ -1,0 +1,13 @@
+##
+## A cow wadvertising the World Wide Web, from lim@csua.berkeley.edu
+##
+$the_cow = <<EOC;
+   $thoughts  ..--**--........\\
+    $thoughts/  _    _  \\......,.....--
+    /  /,\\  /,\\  \\........*.--
+   |   \\_/  \\_/   |...*.......--
+   |  __________  |.....,..woosh.--
+    \\ \\        / /..*.....,.--
+     \\ \\______/ /....,...--
+      **--..--**...utd./
+EOC
