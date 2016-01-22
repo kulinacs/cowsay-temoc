@@ -1,12 +1,14 @@
 ##
-## A cow wadvertising the World Wide Web, from lim@csua.berkeley.edu
+## Temoc, a cowmet from the University of Texas at Dallas
+## Designer: kulinacs <kulinacs@bellicosedev.com
+## UTD, WHOOSH!
 ##
 $the_cow = <<EOC;
    $thoughts  ..--**--........\\
     $thoughts/  _    _  \\......,.....--
     /  /,\\  /,\\  \\........*.--
    |   \\_/  \\_/   |...*.......--
-   |  __________  |.....,..woosh.--
+   |  __________  |.....,..whoosh.--
     \\ \\        / /..*.....,.--
      \\ \\______/ /....,...--
       **--..--**...utd./
